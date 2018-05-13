@@ -16,7 +16,7 @@ api = tweepy.API(auth)
 
 departure = {
 	'Departure1': ' The call to adventure for Jem and I started when the judge asked Atticus to handle Tom Robinsons case. At the time me and Jem didnt understand what the big deal was, the call wasnt something youd refuse you know?', 
-	'Departure2': ' Me and Jem didnt realize why the new case was such a big deal until we crossed the first threshold. At the time I still didnt quite understand why, but when Mrs Dubose was very ...voacl... with Atticuss choice to defend a black man, it made more sense.''
+	'Departure2': ' Me and Jem didnt realize why the new case was such a big deal until we crossed the first threshold. At the time I still didnt quite understand why, but when Mrs Dubose was very ...vocal... with Atticuss choice to defend a black man, it made more sense.''
 } # departure quotes
 
 initiation = {
