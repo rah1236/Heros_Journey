@@ -25,7 +25,7 @@ initiation = {
 
 ret = {
 	'Return1': ' You know, at first I had a refusal of the call of any of these other men to just work til death, Barely able to afford more than a shot, I thought I was different, I thought me and Lennie could make it to the ranch.',
-	'Return2': ' The guilt sits in the back of my mind like a tick hanging by the edge its little insect legs to a dirty dog. I wish I didn’t kill Lennie, but I had to. I had to kill him so that I would have the freedom to live a normal life. A better life.'
+	'Return2': ' The guilt sits in the back of my mind like a tick hanging by the edge its little insect legs to a dirty dog. I wish I didnt kill Lennie, but I had to. I had to kill him so that I would have the freedom to live a normal life. A better life.'
 } # Return quotes
 
 
