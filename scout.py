@@ -16,12 +16,12 @@ api = tweepy.API(auth)
 
 departure = {
 	'Departure1': ' The call to adventure for Jem and I started when the judge asked Atticus to handle Tom Robinsons case. At the time me and Jem didnt understand what the big deal was, the call wasnt something youd refuse you know?', 
-	'Departure2': ' Me and Jem didnt realize why the new case was such a big deal until we crossed the first threshold. At the time I still didnt quite understand why, but when Mrs Dubose was very …vocal…  with Atticuss choice to defend a black man, it made more sense.''
+	'Departure2': ' Me and Jem didnt realize why the new case was such a big deal until we crossed the first threshold. At the time I still didnt quite understand why, but when Mrs Dubose was very ...voacl... with Atticuss choice to defend a black man, it made more sense.''
 } # departure quotes
 
 initiation = {
 	'Initiation1': ' Our meeting with a goddess, well more of a temptress but details are a bother, was with who I think was of all people Boo Radley. He gave me and Jem trinkets of all types, and even a blanket when Maudies house was coming down!',
-	'Initiation2': ' I had an atonement with Atticus after the whole mob fiasco took place. Atticus explained to us that I had accidentally made Cunningham see things through another pair of shoes. Something about it taking “an eight-year-old child to bring em to their senses”.'
+	'Initiation2': ' I had an atonement with Atticus after the whole mob fiasco took place. Atticus explained to us that I had accidentally made Cunningham see things through another pair of shoes. Something about it taking an eight-year-old child to bring em to their senses.'
 } #Initiation quotes
 
 ret = {
