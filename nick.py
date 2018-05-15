@@ -23,7 +23,7 @@ departure = {
 initiation = {
 	'Initiation1': ' My initiation started when I started to fall for the lying temptress that is Ms. Jordan Baker. I couldnt trust her much at all, but she was the only one capable of helping me through the mess that Gatsby was.',
 	'Initiation2': ' I had to help Gatsby atone to me his history of bootlegging and other nefarious activities he had done when he was slightly more oblivious. Turns out his bootlegging buddy also fixed the world series. Whoda thunk it?',
-	'Initiation3': ' You know I sort of had an ultimate boon kind of situation, where I was forced to help make some final decisions between Gatsby, Tom, and poor ole Daisy. That was not a fun evening. Blisteringly hot too.'
+	'Initiation3': ' You know I sort of had an ultimate boon kind of situation, where I witnessed some final decisions being made between Gatsby, Tom, and poor ole Daisy. That was not a fun evening. Blisteringly hot too.'
 } #Initiation quotes
 
 ret = {
